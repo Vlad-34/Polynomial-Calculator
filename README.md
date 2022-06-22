@@ -1,4 +1,4 @@
 # Polynomial-Calculator
 Polynomial Calculator
 
-Fully functional.
+Fully functional PT project.
